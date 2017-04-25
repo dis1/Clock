@@ -1,0 +1,11 @@
+### Netbeans project files
+nbproject
+
+### Mac DS_Store Files
+.DS_Store
+
+### Vagrant runtime
+/.vagrant
+
+### Build path
+build
